@@ -3,15 +3,12 @@
 ## Conferences and Publications:
 
 ### (unpublished) Computer research and modeling, filtration in periodically inhomogeneous
-
-- Shabbir К., Izvekov O. Ya., Konyukhov A. V., Simulation of two-phase flow in porous media using an inhomogeneous network model // Computer research and modeling. 2024 V. 16 NO. 2 P. XXX–XXX
+- Shabbir К., Izvekov O. Ya., Konyukhov A. V., Simulation of two-phase flow in porous media using an inhomogeneous network model // Computer research and modeling. 2024 V. 16 N. 2 P. XXX–XXX
 - All files will remain secret until published
 
 ### (unpublished) Proceedings of MIPT, imbibition simulation
 - Шаббир К., Извеков O. Я., Вамси Б., Моделирование пропитки пористой среды с помощью двумерной сетевой модели // Труды МФТИ. 2024, Т. 18. N. 3, С. XX–XX.
-
 - Shabbir K., Izvekov O. Ya., Vamsi B., Modelling imbibition in porous media using a two-dimensional network model // Proceedings of MIPT. 2024. V. 18. N. 3. P. XX–XX.
-
 - All files will remain secret until published
 
 ### Trigger effects, 03.07.2024
@@ -37,7 +34,6 @@
 
 ### Conference Paper 65 MIPT, proposal of a network model
 - Shabbir K., Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига. 2023. Т. 78. С. 205–206.
-
 - 08.04.2023
 - [the-journal-of-conference-papers-see-page-205](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link)
 - [conference-paper-only](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link)
