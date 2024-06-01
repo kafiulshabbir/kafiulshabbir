@@ -42,7 +42,7 @@
 - [Certificate of participation](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link)
 
 ## Educational Qualifications:
-### Candidate physics and mathematical sciences (Plan Only) 
+### Candidate of physics and mathematical sciences (Plan Only) 
 - September 2025 - July 2029
 - Moscow Institute of Physics and Technology / Московский Физико-Технический Институт
 - School of Aerospace Engineering / Физтех-школа Аэрокосмических Технологий (ФАКТ)
