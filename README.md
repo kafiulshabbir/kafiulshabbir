@@ -65,7 +65,7 @@
 ### SolidWorks Certification
 - [Qualification certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
-## Certificates and Awards:
+## Olympiads and Competitions:
 ### [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024
 - October 2023
 - [Certificate](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
