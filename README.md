@@ -58,14 +58,72 @@
 - September 2019 - July 2023
 - Moscow Institute of Physics and Technology / Московский Физико-Технический Институт
 - School of Aerospace Engineering / Физтех-школа Аэрокосмических Технологий (ФАКТ) 
-- Техническая физика» (16.03.01)
+- 16.03.01 Техническая физика 
 - Aerospace Engineering
 - [Report Card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
 
 ### SolidWorks Certification
 - [Qualification certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
+## Certificates and Awards:
+### [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024
+- October 2023
+- [Certificate](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
 
+### Electrodynamics Olympiad
+- May 2023
+- [Certificate](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link)
+
+### Opendoors: Physics
+- January 2023
+- [Certificate](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link)
+
+### Opendoors: Computer Science
+- January 2023
+- [Certificate](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link)
+
+### Opendoors: Engineering
+- January 2023
+- [Certificate](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link)
+
+### [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023
+- October 2022
+- [Certificate](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link)
+
+### [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021
+- November 2020
+- [Certificate](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link)
+
+## Events:
+### World Youth Festival
+- March 2024
+- [Certificate](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
+
+### Entrepreneurship
+- April 2023
+- [Certificate](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link)
+
+## Volunteering:
+### FestTech
+- May 2023
+- [Certificate](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link)
+
+### Физтех-buddy
+- February 2021 to February 2023
+- [Certificate](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link)
+
+### Благодарность
+- April 2022
+- Благодарность за существенный вклад в развитие студенческого самоуправления МФТИ.
+- [Сертификат подписанный ректором](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link)
+
+### ICPC Moscow 
+- October 2021
+- [Certificate](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link)
+
+### COVID observator
+- October 2020 to January 2022
+- [Article in MIPT vk page](https://vk.com/@-932-volontery-mfti)
 
 ## Links to other profiles:
 - [ORCiD](https://orcid.org/0000-0003-2199-9151)
