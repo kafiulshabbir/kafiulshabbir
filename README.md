@@ -41,6 +41,31 @@
 - [certificate-for-best-speaker](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link)
 - [certificate-of-participation](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link)
 
+## Educational Qualifications:
+### Candidate physics and mathematical sciences (Plan Only) 
+- September 2025 - July 2029
+- Moscow Institute of Physics and Technology / Московский Физико-Технический Институт
+- School of Aerospace Engineering / Физтех-школа Аэрокосмических Технологий (ФАКТ)
+
+### Masters of Applied Math and Physics (Under process)
+- September 2023 - July 2025
+- Moscow Institute of Physics and Technology / Московский Физико-Технический Институт
+- School of Aerospace Engineering / Физтех-школа Аэрокосмических Технологий (ФАКТ) 
+- 03.04.01 Прикладные математика и физика 
+- [Geophysics](https://fakt.mipt.ru/master/geo-theor) / Фундаментальная и прикладная физика природных систем: Фундаментальная и прикладная геофизика
+
+### Bachelors of Technical Physics
+- September 2019 - July 2023
+- Moscow Institute of Physics and Technology / Московский Физико-Технический Институт
+- School of Aerospace Engineering / Физтех-школа Аэрокосмических Технологий (ФАКТ) 
+- Техническая физика» (16.03.01)
+- Aerospace Engineering
+- [Report Card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
+
+### SolidWorks Certification
+- [Qualification certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
+
+
 
 ## Links to other profiles:
 - [ORCiD](https://orcid.org/0000-0003-2199-9151)
