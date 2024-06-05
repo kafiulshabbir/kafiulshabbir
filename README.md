@@ -128,3 +128,4 @@
 - [ResearchGate](https://www.researchgate.net/profile/Kafi-Shabbir)
 - [Lichess](https://lichess.org/@/kafiulshabbir)
 - [Codeforces](https://codeforces.com/profile/kafiulshabbir)
+- [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
