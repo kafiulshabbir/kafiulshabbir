@@ -19,7 +19,7 @@
 
 1. 66-я Всероссийская научная конференция МФТИ, 05.04.2024, [cертификат участника](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link).
 
-1. The International Summer Conference on Theoretical Physics 2023, 03.07.2023, [Conference paper](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link), [cертификат участника](https://drive.google.com/file/d/1D25U43Fzp8OsPWj0afSyWxjYGUWflHOX/view?usp=drive_link), [List of speakers (see last page)](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link).
+1. The International Summer Conference on Theoretical Physics 2023, 03.07.2023, [conference paper](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link), [participation certificate](https://drive.google.com/file/d/1D25U43Fzp8OsPWj0afSyWxjYGUWflHOX/view?usp=drive_link), [list of speakers (on the last page)](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link).
 
 1. 65-я Всероссийская научная конференция МФТИ, 08.04.2023, [cертификат за лучшего докладчика](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link), [cертификат участника](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link).
 
