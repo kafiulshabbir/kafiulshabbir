@@ -1,12 +1,14 @@
 # Профиль Кафи Шаббира
 
-## Публикации:
+## Статьи:
 
 1. _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование двухфазного течения в пористых средах с использованием неоднородной сетевой модели // Компьютерные Исследования И Моделирование. 2024, Т. 16, № 4, С. 913–925 [cтатья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link), DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), [ссылка](http://crm.ics.org.ru/journal/article/3500/). __English:__ _Shabbir К., Izvekov O. Ya., Konyukhov A. V._, Simulation of two-phase flow in porous media using an inhomogeneous network model // Computer research and modeling. 2024, V. 16, N. 4, P. 913–925.
 
-1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54 [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
-
 1. _Шаббир К., Извеков O. Я., Вамси Б._, Моделирование пропитки пористой среды с помощью двумерной сетевой модели // Труды МФТИ. 2024, Т. 18, N. 2, С. 41–50 [cтатья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link), [cсылка](https://mipt.ru/science/trudy/62), [том 16 журнала](https://drive.google.com/file/d/1AnbwRaGk9b3Rh20y2sON2_4cnckXVDRu/view?usp=drive_link). __English:__ _Shabbir K., Izvekov O. Ya., Vamsi B._, Modeling imbibition in porous media using a two-dimensional network model // Proceedings of MIPT. 2024, V. 18, N. 2, P. 41–50.
+
+## Опубликованные тезисы конференции
+
+1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54 [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О., Конюхов А._, Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели // Труды 66-й Всероссийской научной конференции МФТИ. Аэрокосмические технологии. — М: Физматкнига. 2024. Т. XX. С. XXX–XXX [тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link).
 
@@ -26,18 +28,25 @@
 
 ## Образование:
 
-### Магистратура 03.04.01 Прикладные математика и физика 
+### Магистратура 03.04.01 Прикладные математика и физика 30.06.2025
 - Сентябрь 2023 - июль 2025
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ) 
-- Фундаментальная и прикладная физика природных систем: Фундаментальная и прикладная геофизика, [Программа](https://fakt.mipt.ru/master/geo-theor)
+- Фундаментальная и прикладная геофизика, [программа](https://fakt.mipt.ru/master/geo-theor)
 
-### Бакалавра 16.03.01 Техническая физика 
+### Профессиональная квалификация программиста 30.06.2024
+- Сентябрь 2023 - июль 2024
+- [диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
+
+### Бакалавра 16.03.01 Техническая физика 01.07.2023
 - Сентябрь 2019 - июль 2023
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ) 
 - Аэрокосмические технологии
 - [Report Card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
+
+### SolidWorks Certification, 28.12.2020
+- [cертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link).
 
 ## Олимпиады и Соревнования:
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, 08.10.2023, [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
@@ -63,7 +72,6 @@
 
 1. Школа предпринимательства, 15.04.2023, [cертификат](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link).
 
-1. SolidWorks Certification, 28.12.2020, [cертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link).
 
 ## Добровольчество:
 1. FestTech, май 2023, [cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link).
