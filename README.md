@@ -36,7 +36,7 @@
 
 ### Профессиональная квалификация программиста, 30.06.2024
 - Сентябрь 2023 - июль 2024
-- [диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
+- [Диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
 
 ### Бакалавра 16.03.01 Техническая физика, 01.07.2023
 - Сентябрь 2019 - июль 2023
@@ -46,7 +46,7 @@
 - [Report Card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
 
 ### SolidWorks Certification, 28.12.2020
-- [cертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link).
+- [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Олимпиады и Соревнования:
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, 08.10.2023, [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
