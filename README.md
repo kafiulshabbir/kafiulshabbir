@@ -6,9 +6,9 @@
 
 1. _Шаббир К., Извеков O. Я., Вамси Б._, Моделирование пропитки пористой среды с помощью двумерной сетевой модели // Труды МФТИ. 2024, Т. 18, N. 2, С. 41–50 [cтатья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link), [cсылка](https://mipt.ru/science/trudy/62), [том 16 журнала](https://drive.google.com/file/d/1AnbwRaGk9b3Rh20y2sON2_4cnckXVDRu/view?usp=drive_link). __English:__ _Shabbir K., Izvekov O. Ya., Vamsi B._, Modeling imbibition in porous media using a two-dimensional network model // Proceedings of MIPT. 2024, V. 18, N. 2, P. 41–50.
 
-## Опубликованные тезисы конференции
+## Опубликованные тезисы с конференций:
 
-1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54 [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
+1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54 [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О., Конюхов А._, Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели // Труды 66-й Всероссийской научной конференции МФТИ. Аэрокосмические технологии. — М: Физматкнига. 2024. Т. XX. С. XXX–XXX [тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link).
 
@@ -17,7 +17,7 @@
 1. _Shabbir K._, Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига. 2023, Т. 78, С. 205–206 [тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ## Конференции:
-1. VII Международная конференция: Триггерные эффекты в геосистемах, 2-5 июля 2024, Долгопрудный, Россия, [Пригласительное письмо](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
+1. VII Международная конференция: Триггерные эффекты в геосистемах, 2-5 июля 2024, Долгопрудный, Россия, [пригласительное письмо](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
 
 1. 66-я Всероссийская научная конференция МФТИ, 05.04.2024, [cертификат участника](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link).
 
@@ -28,17 +28,17 @@
 
 ## Образование:
 
-### Магистратура 03.04.01 Прикладные математика и физика 30.06.2025
+### __Магистратура__ 03.04.01 Прикладные математика и физика, 30.06.2025
 - Сентябрь 2023 - июль 2025
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ) 
 - Фундаментальная и прикладная геофизика, [программа](https://fakt.mipt.ru/master/geo-theor)
 
-### Профессиональная квалификация программиста 30.06.2024
+### Профессиональная квалификация программиста, 30.06.2024
 - Сентябрь 2023 - июль 2024
 - [диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
 
-### Бакалавра 16.03.01 Техническая физика 01.07.2023
+### Бакалавра 16.03.01 Техническая физика, 01.07.2023
 - Сентябрь 2019 - июль 2023
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ) 
@@ -63,7 +63,7 @@
 
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021, 15.11.2020, [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link).
 
-## Мероприятия, школы:
+## Мероприятия:
 1. Летняя школа по триггерным эффектам в геосистемах, 03.07.2024, [cертификат](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link).
 
 1. Всемирный фестиваль молодежи, 05.03.2024, [cертификат](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link).
@@ -85,8 +85,8 @@
 1. COVID oбсерватор, октябрь 2020 - январь 2022, [статья на странице ВК МФТИ](https://vk.com/@-932-volontery-mfti).
 
 ## Ссылки на другие профили:
-- [ORCiD](https://orcid.org/0000-0003-2199-9151)
 - [ResearchGate](https://www.researchgate.net/profile/Kafi-Shabbir)
+- [ORCiD](https://orcid.org/0000-0003-2199-9151)
 - [Lichess](https://lichess.org/@/kafiulshabbir)
 - [Codeforces](https://codeforces.com/profile/kafiulshabbir)
 - [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
