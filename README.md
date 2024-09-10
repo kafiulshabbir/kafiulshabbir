@@ -43,7 +43,7 @@
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ) 
 - Аэрокосмические технологии
-- [Report Card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
+- [Диплом](https://drive.google.com/file/d/1tZ6S3u3JRG9nWYbjSjuoaWF0Nl7GLdcn/view?usp=drive_link), [report card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
 
 ### SolidWorks Certification, 28.12.2020
 - [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
