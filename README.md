@@ -25,7 +25,8 @@
 
 1. 65-я Всероссийская научная конференция МФТИ, 08.04.2023, [cертификат за лучшего докладчика](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link), [cертификат участника](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link).
 
-
+## Грант
+[РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/)
 ## Образование:
 
 ### __Магистратура__ 03.04.01 Прикладные математика и физика, 30.06.2025
