@@ -4,7 +4,7 @@
 
 1. _Шаббир К., Извеков О. Я., Конюхов А. В._ Моделирование двухфазного течения в пористых средах с использованием неоднородной сетевой модели // Компьютерные Исследования И Моделирование. 2024, Т. 16, № 4, С. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925). __English:__ _Shabbir К., Izvekov O. Ya., Konyukhov A. V._, Simulation of two-phase flow in porous media using an inhomogeneous network model // Computer research and modeling. 2024, V. 16, N. 4, P. 913–925. [Статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link), [ссылка](http://crm.ics.org.ru/journal/article/3500/).
 
-1. _Шаббир К., Извеков O. Я., Вамси Б._, Моделирование пропитки пористой среды с помощью двумерной сетевой модели // Труды МФТИ. 2024, Т. 18, N. 2, С. 41–50. __English:__ _Shabbir K., Izvekov O. Ya., Vamsi B._, Modeling imbibition in porous media using a two-dimensional network model // Proceedings of MIPT. 2024, V. 18, N. 2, P. 41–50. [Статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link), [ссылка](http://crm.ics.org.ru/journal/article/3500/).
+1. _Шаббир К., Извеков O. Я., Вамси Б._, Моделирование пропитки пористой среды с помощью двумерной сетевой модели // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. __English:__ _Shabbir K., Izvekov O. Ya., Vamsi B._, Modeling imbibition in porous media using a two-dimensional network model // Proceedings of MIPT. 2024, V. 18, N. 2, P. 41–50. [Статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link), [ссылка](http://crm.ics.org.ru/journal/article/3500/).
 
 ## Опубликованные тезисы с конференций:
 
